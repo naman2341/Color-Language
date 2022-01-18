@@ -11,14 +11,14 @@ The langauge written in Octal could be reffered to as `ColorOct`
 For `ColorOct` using ROYGBIV
 |Octal| Color      | RGB           | Hex     | Color                                                                   |
 |-----| -----------|:-------------:| :------:|-------------------------------------------------------------------------|
-| 0   | Black      | 0,0,0         | #FFFFFF |![#90B3A4](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`|
-| 1   | Red        | 255,0,0       | #FF0000 |![#779977](https://via.placeholder.com/15/FF0000/000000?text=+) `#FF0000`|
-| 2   | Orange     | 255, 127, 0   | #FF7F00 |![#364844](https://via.placeholder.com/15/FF7F00/000000?text=+) `#FF7F00`|
-| 3   | Yellow     | 255, 255, 0   | #FFFF00 |![#1c1c1c](https://via.placeholder.com/15/FFFF00/000000?text=+) `#FFFF00`|
-| 4   | Green      | 0, 255, 0     | #00FF00 |![#90B3A4](https://via.placeholder.com/15/00FF00/000000?text=+) `#00FF00`|
-| 5   | Blue       | 0, 0, 255     | #0000FF |![#779977](https://via.placeholder.com/15/0000FF/000000?text=+) `#0000FF`|
-| 6   | Indigo     | 75, 0, 130    | #4B0082 |![#364844](https://via.placeholder.com/15/4B0082/000000?text=+) `#4B0082`|
-| 7   | Violet     | 148, 0, 211   | #9400D3 |![#1c1c1c](https://via.placeholder.com/15/9400D3/000000?text=+) `#9400D3`|
+| 0   | Black      | 0,0,0         | #FFFFFF |![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`|
+| 1   | Red        | 255,0,0       | #FF0000 |![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `#FF0000`|
+| 2   | Orange     | 255, 127, 0   | #FF7F00 |![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+) `#FF7F00`|
+| 3   | Yellow     | 255, 255, 0   | #FFFF00 |![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `#FFFF00`|
+| 4   | Green      | 0, 255, 0     | #00FF00 |![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) `#00FF00`|
+| 5   | Blue       | 0, 0, 255     | #0000FF |![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+) `#0000FF`|
+| 6   | Indigo     | 75, 0, 130    | #4B0082 |![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+) `#4B0082`|
+| 7   | Violet     | 148, 0, 211   | #9400D3 |![#9400D3](https://via.placeholder.com/15/9400D3/000000?text=+) `#9400D3`|
 
 #### Example Code
 Lets consider a simple program in python
@@ -44,7 +44,67 @@ Red Indigo Black Red Indigo Orange Red Blue Red Red Blue Indigo Red Indigo Green
 ```
 
 This Code, now in `ColorOct` (text-only) will look like:
-
+<br>
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
+![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#9400D3](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+)
+![#9400D3](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#9400D3](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
+![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+)
+![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+)
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
 
 <hr>
 <hr>
