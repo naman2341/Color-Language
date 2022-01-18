@@ -38,7 +38,13 @@ In `Octal`, it will look something like this :
 160 162 151 156 164 050 042 110 145 154 154 157 040 127 157 162 154 144 042 051
 ```
 
-This Code, now in `ColorOct` will look like:
+This Code, now in `ColorOct` (text-only) will look like:
+```
+Red Indigo Black Red Indigo Orange Red Blue Red Red Blue Indigo Red Indigo Green Black Blue Black Black Green Orange Red Red Black Red Green Blue Red Blue Green Red Blue Green Red Blue Violet Black Green Black Red Orange Violet Red Blue Violet Red Indigo Orange Red Blue Green Red Green Green Black Green Orange Black Blue Red
+```
+
+This Code, now in `ColorOct` (text-only) will look like:
+
 
 <hr>
 <hr>
@@ -92,5 +98,6 @@ This Code, now in `ColorHex` will look like:
 <hr>
 
 This is a fun project , to make a language written entirely in color
+**The language might be further extended by writing a whole new language purely in colours(with its own syntax, like BrainF\*ck or BeFungue) , rather than relying on ascii conversions
 
 <hr>
