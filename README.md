@@ -98,6 +98,7 @@ This Code, now in `ColorHex` will look like:
 <hr>
 
 This is a fun project , to make a language written entirely in color
-**The language might be further extended by writing a whole new language purely in colours(with its own syntax, like BrainF\*ck or BeFungue) , rather than relying on ascii conversions
+
+**The language might be further extended by writing a whole new language purely in colours(with its own syntax, like BrainF\*ck or BeFungue) , rather than relying on ascii conversions**
 
 <hr>
