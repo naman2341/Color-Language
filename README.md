@@ -41,8 +41,9 @@ In `Octal`, it will look something like this :
 This Code, now in `ColorOct` will look like:
 
 <hr>
+<hr>
 
-## Extension
+## Extension (WIP)
 Using more colours, to represent the language in hexadecimal
 The colors will represent a character in Hexadecimal
 The langauge written in Hexadecimal could be reffered to as `ColorHex`
