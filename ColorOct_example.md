@@ -1,6 +1,9 @@
 print("Hello World") in `ColorOCT`
+<<<<<<< HEAD
 hmmm
 check
+=======
+>>>>>>> refs/remotes/origin/main
 ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
 ![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
 ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
