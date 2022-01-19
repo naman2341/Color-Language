@@ -1,4 +1,4 @@
-print("Hello World") in ColorOCT
+print("Hello World") in `ColorOCT`
 
 ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
 ![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
