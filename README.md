@@ -11,7 +11,7 @@ The langauge written in Octal could be reffered to as `ColorOct`
 For `ColorOct` using ROYGBIV
 |Octal| Color      | RGB           | Hex     | Color                                                                   |
 |-----| -----------|:-------------:| :------:|-------------------------------------------------------------------------|
-| 0   | Black      | 0,0,0         | #FFFFFF |![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`|
+| 0   | White      | 0,0,0         | #FFFFFF |![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`|
 | 1   | Red        | 255,0,0       | #FF0000 |![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `#FF0000`|
 | 2   | Orange     | 255, 127, 0   | #FF7F00 |![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+) `#FF7F00`|
 | 3   | Yellow     | 255, 255, 0   | #FFFF00 |![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) `#FFFF00`|
@@ -40,7 +40,7 @@ In `Octal`, it will look something like this :
 
 This Code, now in `ColorOct` (text-only) will look like:
 ```
-Red Indigo Black Red Indigo Orange Red Blue Red Red Blue Indigo Red Indigo Green Black Blue Black Black Green Orange Red Red Black Red Green Blue Red Blue Green Red Blue Green Red Blue Violet Black Green Black Red Orange Violet Red Blue Violet Red Indigo Orange Red Blue Green Red Green Green Black Green Orange Black Blue Red
+Red Indigo White Red Indigo Orange Red Blue Red Red Blue Indigo Red Indigo Green White Blue White White Green Orange Red Red White Red Green Blue Red Blue Green Red Blue Green Red Blue Violet White Green White Red Orange Violet Red Blue Violet Red Indigo Orange Red Blue Green Red Green Green White Green Orange White Blue Red
 ```
 
 This Code, now in `ColorOct` (text-only) will look like:
@@ -124,7 +124,7 @@ WIP
 <!--
 |Octal| Color      | RGB           | Hex     | Color                                                                   |
 |-----| -----------|:-------------:| :------:|-------------------------------------------------------------------------|
-| 0   | Black      | 0,0,0         | #FFFFFF |![#90B3A4](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`|
+| 0   | White      | 0,0,0         | #FFFFFF |![#90B3A4](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`|
 | 1   | Red        | 255,0,0       | #FF0000 |![#779977](https://via.placeholder.com/15/FF0000/000000?text=+) `#FF0000`|
 | 2   | Orange     | 255, 127, 0   | #FF7F00 |![#364844](https://via.placeholder.com/15/FF7F00/000000?text=+) `#FF7F00`|
 | 3   | Yellow     | 255, 255, 0   | #FFFF00 |![#1c1c1c](https://via.placeholder.com/15/FFFF00/000000?text=+) `#FFFF00`|
