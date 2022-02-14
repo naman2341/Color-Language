@@ -43,7 +43,7 @@ This Code, now in `ColorOct` (text-only) will look like:
 Red Indigo White Red Indigo Orange Red Blue Red Red Blue Indigo Red Indigo Green White Blue White White Green Orange Red Red White Red Green Blue Red Blue Green Red Blue Green Red Blue Violet White Green White Red Orange Violet Red Blue Violet Red Indigo Orange Red Blue Green Red Green Green White Green Orange White Blue Red
 ```
 
-This Code, now in `ColorOct` (text-only) will look like:
+This Code, now in `ColorOct` will look like:
 <br>
 ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
 ![#4B0082](https://via.placeholder.com/15/4B0082/000000?text=+)
